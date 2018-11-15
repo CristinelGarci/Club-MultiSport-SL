@@ -269,8 +269,8 @@ br.clear {
 
 .container-icons{
     position: absolute;
-    bottom: -300px;
-    right: 10px;
+    bottom: -320px;
+    right: 8px;
     z-index: 500;
 }
 .icon-circle-with-plus{
@@ -329,14 +329,14 @@ br.clear {
     transform: translate(-46px, -200px) scale(1);
 }
 .label1{
-    color: #4862A3;
+    color: #1B00B4;
 }
 .label2{
     color: #AB3838;
 }
 .label3{
-    color: #D32681;
+    color: #F2000B;
 }
 .label4{
-    color: #1DA0F2;
+    color: #78C5FC;
 }
