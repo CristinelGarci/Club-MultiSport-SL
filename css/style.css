@@ -269,7 +269,7 @@ br.clear {
 
 .container-icons{
     position: absolute;
-    bottom: -380px;
+    bottom: -350px;
     right: 10px;
     z-index: 500;
 }
@@ -305,7 +305,7 @@ br.clear {
     font-size: 40px;
 }
 .icon1{
-    transform: translate(-100px, -40px) scale(0);
+    transform: translate(-99px, -40px) scale(0);
 }
 .icon2{
     transform: translate(-0px, -90px) scale(0);
