@@ -269,7 +269,7 @@ br.clear {
 
 .container-icons{
     position: absolute;
-    bottom: -320px;
+    bottom: -350px;
     right: 8px;
     z-index: 500;
 }
