@@ -262,3 +262,29 @@ br.clear {
 	textarea {min-height: 150px!important;}
 	.btn-form {display: inline-block; border:0; background: green; height: 46px; line-height: 46px; padding: 0 20px; border-radius: 6px; color:#fff; text-decoration: none; text-transform: uppercase; letter-spacing: 1px}
 	.btn-form:hover {background: #444}
+
+
+
+
+
+.container-icons:hover .icon2 {
+    transform: translate(-56px, -100px) scale(1);
+}
+.container-icons:hover .icon3 {
+    transform: translate(-70px, -150px) scale(1);
+}
+.container-icons:hover .icon4 {
+    transform: translate(-46px, -200px) scale(1);
+}
+.label1 {
+    color: #2D4FF8;
+}
+.label2 {
+    color: #E40404;
+}
+.label3 {
+	  color: #d6249f;
+}
+.label4 {
+    color: #04E4C5;
+}
