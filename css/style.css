@@ -293,7 +293,7 @@ br.clear {
     opacity: 1;
 }
 .row-icon h7{
-    transform: translate(-10px, 10px);
+    transform: translate(-11px, 11px);
     background: rgba(0,0,0,0.6);
     height: 20px;
     font-weight: 300;
